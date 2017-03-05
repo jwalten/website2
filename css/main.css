@@ -1,0 +1,67 @@
+#ridgebrook-header {
+  background-color: royalblue;
+}
+nav li {
+  float: left;
+  display: block;
+  padding: 20px;
+  background-color: darkgray;
+  margin: 0;
+}
+nav li a {
+  display: block;
+  color: white;
+  text-align: left;
+  padding: 16px;
+  text-decoration: none;
+  font-size: 110%;
+}
+.personal {
+  list-style-type: none;
+  text-align: center;
+  float: left;
+  padding: inherit;
+  font-size: 1.2em;
+}
+.business {
+  list-style-type: none;
+  text-align: center;
+  float: left;
+  font-size: 1.2em;
+}
+.financial {
+  list-style-type: none;
+  text-align: center;
+  float: left;
+  font-size: 1.2em;
+}
+.button1 {
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 200px;
+  margin: 20px;
+}
+.button2 {
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 200px;
+  margin: 20px;
+}
+.button3 {
+  color: #FFF;
+  background-color: #5995DA;    /* Blue */
+  font-weight: bold;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 3px;
+  width: 200px;
+  margin: 20px;
+}
