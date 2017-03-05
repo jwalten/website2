@@ -1,10 +1,15 @@
+body, h1, li, ul, nav, div {
+  margin: 0;
+  padding: 0;
+}
+
 #ridgebrook-header {
-  background-color: royalblue;
+  background-color: #5995DA;
 }
 nav li {
   float: left;
   display: block;
-  padding: 20px;
+  padding: 25px;
   background-color: darkgray;
   margin: 0;
 }
@@ -22,18 +27,27 @@ nav li a {
   float: left;
   padding: inherit;
   font-size: 1.2em;
+  background-color: lightgray;
+  margin: 22px;
+  padding: 20px;
 }
 .business {
   list-style-type: none;
   text-align: center;
   float: left;
   font-size: 1.2em;
+  background-color: lightgray;
+  margin: 22px;
+  padding: 20px;
 }
 .financial {
   list-style-type: none;
   text-align: center;
   float: left;
   font-size: 1.2em;
+  background-color: lightgray;
+  margin: 22px;
+  padding: 20px;
 }
 .button1 {
   color: #FFF;
@@ -44,6 +58,7 @@ nav li a {
   border-radius: 3px;
   width: 200px;
   margin: 20px;
+  text-align: center;
 }
 .button2 {
   color: #FFF;
@@ -54,6 +69,7 @@ nav li a {
   border-radius: 3px;
   width: 200px;
   margin: 20px;
+  text-align: center;
 }
 .button3 {
   color: #FFF;
@@ -64,4 +80,5 @@ nav li a {
   border-radius: 3px;
   width: 200px;
   margin: 20px;
+  text-align: center;
 }
