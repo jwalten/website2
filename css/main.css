@@ -7,6 +7,11 @@ body, h1, li, ul, nav, div, img {
   padding: 0;
 }
 
+.minwidth {
+  min-width: 1199.12px;
+  max-width: 1199.12px;
+}
+
 #ridgebrook-header {
   background-color: #5995DA;
   float: left;
