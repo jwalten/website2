@@ -18,6 +18,10 @@ body, h1, li, ul, nav, div, img {
   margin: 0;
   float: left;
 }
+#filler ul {
+  text-align: right;
+  list-style-type: none;
+}
 nav li {
   float: left;
   list-style-type: none;
