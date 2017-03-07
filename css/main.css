@@ -9,11 +9,9 @@ body, h1, li, ul, nav, div, img {
 }
 #filler {
   background-color: #5995DA;
-  border: 1px;
   height: 172.8px;      /* Ridgebrook image is 172.8 x 699.12 */
   width: 488.88px;      /* Family image height is 1,188px */
-  margin: 0 auto;
-  position: relative;
+  margin: 0;
   float: left;
 }
 nav li {
