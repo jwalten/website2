@@ -14,7 +14,7 @@ body, h1, li, ul, nav, div, img {
 #filler {
   background-color: #5995DA;
   height: 172.8px;      /* Ridgebrook image is 172.8 x 699.12 */
-  width: 500px;      /* Family image height is 1,199.12px */
+  width: 500px;      /* Family image width is 1,199.12px */
   margin: 0;
   float: left;
 }
@@ -22,7 +22,6 @@ body, h1, li, ul, nav, div, img {
   text-align: right;
   list-style-type: none;
   color: white;
-  font-weight: bold;
 }
 nav li {
   float: left;
