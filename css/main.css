@@ -21,6 +21,8 @@ body, h1, li, ul, nav, div, img {
 #filler ul {
   text-align: right;
   list-style-type: none;
+  color: white;
+  font-weight: bold;
 }
 nav li {
   float: left;
